@@ -1,0 +1,19 @@
+# 敏感凭据与认证缓存 (严禁上传)
+token.txt
+config.json
+.env
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# 编辑器与环境
+.vscode/
+.idea/
+.venv/
+venv/
+env/
+Thumbs.db
