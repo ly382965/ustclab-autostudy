@@ -123,7 +123,7 @@ python study_bot.py --mode all
 
 ## 致谢 / Acknowledgements
 
-本项目统一身份认证（CAS）底层依托于 [@XeF2](https://github.com/XeF2) 优秀且活跃的开源项目 [**pyustc**](https://github.com/XeF2/pyustc)，特此致谢！
+本项目统一身份认证（CAS）底层依托于 [@USTC-XeF2](https://github.com/USTC-XeF2) 优秀且活跃的开源项目 [**pyustc**](https://github.com/USTC-XeF2/pyustc)，特此致谢！
 
 ---
 
