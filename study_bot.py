@@ -174,7 +174,6 @@ class StudyBot:
                 "page": page,
                 "size": 50,
                 "examId": self.exam_id,
-                "type": 1,
                 "nocache": int(time.time() * 1000),
             }
             headers = self._headers(path, params)
